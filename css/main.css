@@ -1,0 +1,59 @@
+.contenedor{
+	background-color: #209536;
+	width: 800px;
+	height: 500px;
+	position: relative;
+}
+.cancha{
+	width: 750px;
+	height: 450px;
+	border: 2px solid white;
+	position: absolute;
+	left: 25px;
+	top: 25px;	
+}
+
+.arcod{
+	border: 2px solid white;
+	width: 100px;
+	height: 200px;
+	border-right: 0px solid white;
+	position: absolute;
+	right: 0;
+	top: 125px;
+}
+.arcoi{
+	border: 2px solid white;
+	width: 100px;
+	height: 200px;
+	position: absolute;
+	border-left: 0px solid white;
+	top:125px;
+}
+.centro{
+	width: 200px;
+	height: 200px;
+	border:2px solid white;
+	border-radius: 1500px;
+	position: absolute;
+	right: 270px;
+	top: 125px;
+}
+
+.primera{
+	position: absolute;
+	left: 90px;
+	top: 130px;
+}
+
+.segunda{
+	position: absolute;
+	left: 400px;
+	top: 50px;
+}
+
+.tercera{
+	position: absolute;
+	right: 110px;
+	bottom: 125px;
+}
